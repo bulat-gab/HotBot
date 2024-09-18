@@ -1,0 +1,8 @@
+<SESSION NAME> | <PROXY URL> | <SEED PHRASE>
+Leave proxy empty if not need
+
+# File: accounts.txt
+tg001 | socks5://user123:password123@100.100.100.170:5050 | word1 word2 ... word12
+tg002 | socks5://user123:password123@100.100.100.170:5050 | word1 word2 ... word12
+tg003 | socks5://user123:password123@100.100.100.170:5050 | word1 word2 ... word12
+tg004 |  | word1 word2 ... word12
