@@ -56,7 +56,7 @@ The extension's configuration must be set to 'disable_non_proxied_udp', other op
 - Download an extension and enter the path to it in `WEBRTC_EXTENSION_PATH =`. It should be a path to an unpacked extension (not to `.crx` file)  
   Example: `WEBRTC_EXTENSION_PATH = "./files/WebRTC_Network_Limiter_0.2.1.4_0"`
 
-# 2. How to Run
+# How to Run
 
 `python3 ./main.py [-h] {tasks,ui} `
 
